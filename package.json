@@ -1,0 +1,19 @@
+{
+  "name": "restfull-api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon Node_app/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.4"
+  }
+}
